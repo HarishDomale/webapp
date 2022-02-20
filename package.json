@@ -1,5 +1,5 @@
 {
-  "name": "onlineapp",
+  "name": "onlineapp shopping",
   "version": "1.0.0",
   "description": "this is simple web app ",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ravi Tambade",
+  "author": "Harish Domale",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
